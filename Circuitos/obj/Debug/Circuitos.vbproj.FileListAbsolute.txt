@@ -1,0 +1,70 @@
+D:\Usuario\Documentos\Visual Studio 2019\Projects\Circuitos\Circuitos\bin\Debug\Circuitos.exe.config
+D:\Usuario\Documentos\Visual Studio 2019\Projects\Circuitos\Circuitos\bin\Debug\Circuitos.exe
+D:\Usuario\Documentos\Visual Studio 2019\Projects\Circuitos\Circuitos\bin\Debug\Circuitos.pdb
+D:\Usuario\Documentos\Visual Studio 2019\Projects\Circuitos\Circuitos\bin\Debug\Circuitos.xml
+D:\Usuario\Documentos\Visual Studio 2019\Projects\Circuitos\Circuitos\obj\Debug\Circuitos.vbprojAssemblyReference.cache
+D:\Usuario\Documentos\Visual Studio 2019\Projects\Circuitos\Circuitos\obj\Debug\Circuitos.Form1.resources
+D:\Usuario\Documentos\Visual Studio 2019\Projects\Circuitos\Circuitos\obj\Debug\Circuitos.Resources.resources
+D:\Usuario\Documentos\Visual Studio 2019\Projects\Circuitos\Circuitos\obj\Debug\Circuitos.vbproj.GenerateResource.cache
+D:\Usuario\Documentos\Visual Studio 2019\Projects\Circuitos\Circuitos\obj\Debug\Circuitos.vbproj.CoreCompileInputs.cache
+D:\Usuario\Documentos\Visual Studio 2019\Projects\Circuitos\Circuitos\obj\Debug\Circuitos.exe
+D:\Usuario\Documentos\Visual Studio 2019\Projects\Circuitos\Circuitos\obj\Debug\Circuitos.xml
+D:\Usuario\Documentos\Visual Studio 2019\Projects\Circuitos\Circuitos\obj\Debug\Circuitos.pdb
+D:\Usuario\Documentos\Visual Studio 2019\Projects\Circuitos\Circuitos\obj\Debug\Circuitos.FormPrincipal.resources
+D:\Usuario\Documentos\Visual Studio 2019\Projects\Circuitos\Circuitos\obj\Debug\Circuitos.Form2.resources
+C:\Users\julia\OneDrive\Escritorio\Circuitos Final\Circuitos\bin\Debug\Circuitos.exe.config
+C:\Users\julia\OneDrive\Escritorio\Circuitos Final\Circuitos\bin\Debug\Circuitos.exe
+C:\Users\julia\OneDrive\Escritorio\Circuitos Final\Circuitos\bin\Debug\Circuitos.pdb
+C:\Users\julia\OneDrive\Escritorio\Circuitos Final\Circuitos\bin\Debug\Circuitos.xml
+C:\Users\julia\OneDrive\Escritorio\Circuitos Final\Circuitos\obj\Debug\Circuitos.vbprojAssemblyReference.cache
+C:\Users\julia\OneDrive\Escritorio\Circuitos Final\Circuitos\obj\Debug\Circuitos.Form1.resources
+C:\Users\julia\OneDrive\Escritorio\Circuitos Final\Circuitos\obj\Debug\Circuitos.Form2.resources
+C:\Users\julia\OneDrive\Escritorio\Circuitos Final\Circuitos\obj\Debug\Circuitos.FormPrincipal.resources
+C:\Users\julia\OneDrive\Escritorio\Circuitos Final\Circuitos\obj\Debug\Circuitos.Resources.resources
+C:\Users\julia\OneDrive\Escritorio\Circuitos Final\Circuitos\obj\Debug\Circuitos.vbproj.GenerateResource.cache
+C:\Users\julia\OneDrive\Escritorio\Circuitos Final\Circuitos\obj\Debug\Circuitos.vbproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Escritorio\Circuitos Final\Circuitos\obj\Debug\Circuitos.exe
+C:\Users\julia\OneDrive\Escritorio\Circuitos Final\Circuitos\obj\Debug\Circuitos.xml
+C:\Users\julia\OneDrive\Escritorio\Circuitos Final\Circuitos\obj\Debug\Circuitos.pdb
+D:\Mis documentos\Escritorio\Circuitos Final\Circuitos\bin\Debug\Circuitos.exe.config
+D:\Mis documentos\Escritorio\Circuitos Final\Circuitos\bin\Debug\Circuitos.exe
+D:\Mis documentos\Escritorio\Circuitos Final\Circuitos\bin\Debug\Circuitos.pdb
+D:\Mis documentos\Escritorio\Circuitos Final\Circuitos\bin\Debug\Circuitos.xml
+D:\Mis documentos\Escritorio\Circuitos Final\Circuitos\obj\Debug\Circuitos.vbprojAssemblyReference.cache
+D:\Mis documentos\Escritorio\Circuitos Final\Circuitos\obj\Debug\Circuitos.Form1.resources
+D:\Mis documentos\Escritorio\Circuitos Final\Circuitos\obj\Debug\Circuitos.Form2.resources
+D:\Mis documentos\Escritorio\Circuitos Final\Circuitos\obj\Debug\Circuitos.FormPrincipal.resources
+D:\Mis documentos\Escritorio\Circuitos Final\Circuitos\obj\Debug\Circuitos.Resources.resources
+D:\Mis documentos\Escritorio\Circuitos Final\Circuitos\obj\Debug\Circuitos.vbproj.GenerateResource.cache
+D:\Mis documentos\Escritorio\Circuitos Final\Circuitos\obj\Debug\Circuitos.vbproj.CoreCompileInputs.cache
+D:\Mis documentos\Escritorio\Circuitos Final\Circuitos\obj\Debug\Circuitos.exe
+D:\Mis documentos\Escritorio\Circuitos Final\Circuitos\obj\Debug\Circuitos.xml
+D:\Mis documentos\Escritorio\Circuitos Final\Circuitos\obj\Debug\Circuitos.pdb
+C:\Users\julia\Downloads\Circuitos Final\Circuitos\bin\Debug\Circuitos.exe.config
+C:\Users\julia\Downloads\Circuitos Final\Circuitos\bin\Debug\Circuitos.exe
+C:\Users\julia\Downloads\Circuitos Final\Circuitos\bin\Debug\Circuitos.pdb
+C:\Users\julia\Downloads\Circuitos Final\Circuitos\bin\Debug\Circuitos.xml
+C:\Users\julia\Downloads\Circuitos Final\Circuitos\obj\Debug\Circuitos.vbprojAssemblyReference.cache
+C:\Users\julia\Downloads\Circuitos Final\Circuitos\obj\Debug\Circuitos.Form1.resources
+C:\Users\julia\Downloads\Circuitos Final\Circuitos\obj\Debug\Circuitos.Form2.resources
+C:\Users\julia\Downloads\Circuitos Final\Circuitos\obj\Debug\Circuitos.FormPrincipal.resources
+C:\Users\julia\Downloads\Circuitos Final\Circuitos\obj\Debug\Circuitos.Resources.resources
+C:\Users\julia\Downloads\Circuitos Final\Circuitos\obj\Debug\Circuitos.vbproj.GenerateResource.cache
+C:\Users\julia\Downloads\Circuitos Final\Circuitos\obj\Debug\Circuitos.vbproj.CoreCompileInputs.cache
+C:\Users\julia\Downloads\Circuitos Final\Circuitos\obj\Debug\Circuitos.exe
+C:\Users\julia\Downloads\Circuitos Final\Circuitos\obj\Debug\Circuitos.xml
+C:\Users\julia\Downloads\Circuitos Final\Circuitos\obj\Debug\Circuitos.pdb
+C:\Users\julia\Downloads\FINAL\Circuitos Final\Circuitos\bin\Debug\Circuitos.exe.config
+C:\Users\julia\Downloads\FINAL\Circuitos Final\Circuitos\bin\Debug\Circuitos.exe
+C:\Users\julia\Downloads\FINAL\Circuitos Final\Circuitos\bin\Debug\Circuitos.pdb
+C:\Users\julia\Downloads\FINAL\Circuitos Final\Circuitos\bin\Debug\Circuitos.xml
+C:\Users\julia\Downloads\FINAL\Circuitos Final\Circuitos\obj\Debug\Circuitos.vbprojAssemblyReference.cache
+C:\Users\julia\Downloads\FINAL\Circuitos Final\Circuitos\obj\Debug\Circuitos.Form1.resources
+C:\Users\julia\Downloads\FINAL\Circuitos Final\Circuitos\obj\Debug\Circuitos.Form2.resources
+C:\Users\julia\Downloads\FINAL\Circuitos Final\Circuitos\obj\Debug\Circuitos.FormPrincipal.resources
+C:\Users\julia\Downloads\FINAL\Circuitos Final\Circuitos\obj\Debug\Circuitos.Resources.resources
+C:\Users\julia\Downloads\FINAL\Circuitos Final\Circuitos\obj\Debug\Circuitos.vbproj.GenerateResource.cache
+C:\Users\julia\Downloads\FINAL\Circuitos Final\Circuitos\obj\Debug\Circuitos.vbproj.CoreCompileInputs.cache
+C:\Users\julia\Downloads\FINAL\Circuitos Final\Circuitos\obj\Debug\Circuitos.exe
+C:\Users\julia\Downloads\FINAL\Circuitos Final\Circuitos\obj\Debug\Circuitos.xml
+C:\Users\julia\Downloads\FINAL\Circuitos Final\Circuitos\obj\Debug\Circuitos.pdb
